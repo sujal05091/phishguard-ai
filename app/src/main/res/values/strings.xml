@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhishGuard AI</string>
+    <string name="phishing_detected_title">⚠️ PHISHING DETECTED</string>
+    <string name="phishing_detected_message">This website has been identified as potentially malicious. For your safety, navigation has been blocked.</string>
+    <string name="safe_website_message">✅ Website verified as safe</string>
+    <string name="analyzing_website">🔍 Analyzing website for threats...</string>
+    <string name="block_navigation">Block</string>
+    <string name="proceed_anyway">Proceed Anyway</string>
+    <string name="ok">OK</string>
+</resources>
